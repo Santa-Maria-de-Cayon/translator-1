@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Translator</string>
+    <string name="input_text">Input text</string>
+    <string name="out">Out</string>
+    <string name="clear">Clear</string>
+    <string name="translate">Translate</string>
+    <string name="english">Translate to English</string>
+    <string name="spain">Translate to Spanish</string>
+    <string name="russian">Translate to Russian</string>
+</resources>
