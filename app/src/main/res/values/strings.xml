@@ -7,4 +7,9 @@
     <string name="english">Translate to English</string>
     <string name="spain">Translate to Spanish</string>
     <string name="russian">Translate to Russian</string>
+    <string name="asset_statements" translatable="false">[{ \"include\": \"https://suzdalenko.com/.well-known/assetlinks.json\" }]</string>
+    <string name="doch">Translate to German</string>
+    <string name="it">Translate to Italian</string>
+    <string name="por">Translate to Portuguese</string>
+    <string name="fr">Translate to French</string>
 </resources>

@@ -59,6 +59,11 @@ public class ReadContentUrl {
                     if(language.equalsIgnoreCase("sp")) lang = "es";
                     if(language.equalsIgnoreCase("ru")) lang = "ru";
 
+                    if(language.equalsIgnoreCase("pt")) lang = "pt";
+                    if(language.equalsIgnoreCase("it")) lang = "it";
+                    if(language.equalsIgnoreCase("de")) lang = "de";
+                    if(language.equalsIgnoreCase("fr")) lang = "fr";
+
                     Random r = new Random();
                     int placeKey = r.nextInt(9);
                     Log.d("tag", "=======> " + placeKey);
